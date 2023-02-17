@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Typescript
 - 👯 Looking for first job.
 
-Here https://mpawlak92.github.io/Portfolio/ You can see my last project, more info in reposytory bio.
+[Here](https://mpawlak92.github.io/Portfolio/), You can see my last project, more info in reposytory bio.
 <!--
 **mpawlak92/mpawlak92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
