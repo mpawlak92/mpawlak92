@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on new project for my portfolio, it will be online shop
 - 🌱 I’m currently learning Typescript
-- 👯 Looking for first job. [CV](https://drive.google.com/file/d/13IqIFD-wB6vNoT7bVhB-VViJI5a--yeB/view?usp=sharing)
+- 👯 Looking for first job. [CV](https://drive.google.com/file/d/1ern2-PLOUKKXMRpbEcprQE585ZxmILi1/view?usp=sharing)
 
 [Here](https://mpawlak92.github.io/Portfolio/), You can see my last project, more info in reposytory bio.
 <!--
