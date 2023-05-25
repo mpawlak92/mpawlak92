@@ -4,7 +4,7 @@
 - ➡️ Next my project will be a PWA application,
 - 👯 Looking for first job. [CV](https://drive.google.com/file/d/1ggsuRxSx4_HPkGH0-TBnB3fqZd2WOvHT/view?usp=share_link)
 
-[Here](https://mpawlak92.github.io/Portfolio/), You can see my last project, more info in reposytory bio.
+[Here](https://mpawlak92.github.io/Portfolio/), You can see my last projects, more info in reposytory bio.
 <!--
 **mpawlak92/mpawlak92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
