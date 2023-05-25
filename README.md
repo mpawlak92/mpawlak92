@@ -1,6 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on new project for my portfolio, it will be online shop
-- 🌱 I’m currently learning Typescript
+- 🔭 I’m currently working on website for my client, i will do sPA for air conditioning company,
+- 🌱 I’m currently learning Typescript and how to do PWA application,
+- ➡️ Next my project will be a PWA application,
 - 👯 Looking for first job. [CV](https://drive.google.com/file/d/1ggsuRxSx4_HPkGH0-TBnB3fqZd2WOvHT/view?usp=share_link)
 
 [Here](https://mpawlak92.github.io/Portfolio/), You can see my last project, more info in reposytory bio.
