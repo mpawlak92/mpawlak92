@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on website for my client, i will do sPA for air conditioning company,
-- 🌱 I’m currently learning Typescript and how to do PWA application,
+- 🌱 I’m currently learning how to do PWA application,
 - ➡️ Next my project will be a PWA application,
-- 👯 Looking for first job. [CV](https://drive.google.com/file/d/12LaBXSfPSURnscgeQK2WgWDYoBzvrlnV/view?usp=drive_link)
+- 👯 Looking for job. [CV](https://drive.google.com/file/d/12LaBXSfPSURnscgeQK2WgWDYoBzvrlnV/view?usp=drive_link)
 
 [Here](https://mpawlak92.github.io/Portfolio/), You can see my last projects, more info in reposytory bio.
 <!--
